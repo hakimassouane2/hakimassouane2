@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack JS developer from 🇫🇷 and currently located in 🇰🇷</h3>
 
 
-<p align="center"> 🔭 I’m currently working at <b><a href="https://www.yoyohub.net/">요요허브 (Yoyohub) </a></b></p>
+<p align="center"> 🔭 I’m currently working at <b><a href="https://packative.com/">패커티브 (Packative) </a></b></p>
 <p align="center"> 📫 How to reach me <b>hakim.assouane@epitech.eu</b> or <b><a href="https://www.linkedin.com/in/hakim-assouane-29661675/">Linkedin</a></b></p>
 
 
